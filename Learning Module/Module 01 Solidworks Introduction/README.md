@@ -1,4 +1,4 @@
-# Modul 01 - Dasar-Dasar Perancangan Menggunakan SolidWorks
+# Modul 01 - Dasar-Dasar Perancangan Menggunakan SolidWorks 
 
 Selamat datang di **Modul 01: Dasar-Dasar Perancangan Menggunakan SolidWorks**. Modul ini dirancang untuk membantu pemula untuk mulai memahami alat dan fitur dasar SolidWorks yang penting dalam membuat desain 3D sederhana.
 
@@ -46,9 +46,53 @@ Heads-Up View Toolbar juga memungkinkan pengaturan tampilan model, seperti wiref
 Pada tab Sketch, SolidWorks menyediakan berbagai alat yang dirancang untuk membuat sketsa 2D. Sketsa ini bisa digunakan sebagai dasar untuk fitur 3D seperti Extrude dan Revolve. Berikut adalah fitur-fitur utama yang terdapat pada Sketch:-
 **Memulai Sketsa**: Pilih bidang (misalnya Front, Right, atau Top Plane) dan klik **Sketch**.
 - **Alat Sketsa**:
-  - **Garis (Line)**: Membuat garis lurus untuk kerangka dasar.
-  - **Lingkaran (Circle)**: Untuk membentuk elemen bundar atau lubang.
-  - **Smart Dimension**: Mengatur ukuran secara akurat untuk setiap elemen sketsa.
+    - **1.Line (Garis)**:
+    Alat untuk membuat garis lurus antara dua titik. Garis ini bisa horisontal, vertikal, atau dalam sudut tertentu.
+    Fitur Line sangat mendasar dan sering digunakan dalam membuat kerangka dari objek yang akan dirancang.
+
+    - **2.Circle (Lingkaran)**:
+    Terdapat dua jenis lingkaran: Center Circle dan Perimeter Circle.
+    Center Circle memungkinkan pengguna menggambar lingkaran dari titik pusat, sedangkan Perimeter Circle memungkinkan menggambar lingkaran berdasarkan dua titik di tepi lingkaran.
+
+    - **3.Arc (Busur)**:
+    Alat ini memungkinkan pembuatan kurva setengah lingkaran atau lingkaran parsial.
+    Ada beberapa tipe busur yang tersedia, seperti Centerpoint Arc (menggunakan pusat dan dua titik ujung) dan Tangent Arc (membuat busur melengkung dari garis   yang ada).
+
+    - **4.Rectangle (Persegi Panjang)**:
+    Terdapat beberapa jenis persegi panjang yang bisa dibuat, termasuk Corner Rectangle dan Center Rectangle.
+    Corner Rectangle dibuat dengan menentukan dua titik diagonal, sementara Center Rectangle dibuat dari titik pusat dan melebar ke sudut-sudut.
+
+    - **5.Polygon**:
+    Fitur untuk membuat bentuk poligon dengan jumlah sisi tertentu (segitiga, segi empat, segi lima, dll.).
+    Pengguna dapat menentukan jumlah sisi dan ukuran poligon dengan memasukkan nilai tertentu, sehingga menghasilkan bentuk simetris.
+
+    - **6.Ellipse (Elips)**:
+    Alat untuk menggambar bentuk elips atau oval.
+    Dapat digunakan untuk membuat bentuk yang lebih kompleks atau desain yang memerlukan garis lengkung di beberapa arah.
+
+    - **7.Slot**:
+    Fitur untuk membuat bentuk slot atau lubang yang sering digunakan untuk sambungan mekanis.
+    Terdapat beberapa variasi slot, termasuk Straight Slot (slot lurus), Arc Slot (slot melengkung), dan Centerpoint Slot.
+
+    - **8.Spline**:
+    Alat untuk membuat garis kurva bebas yang dapat digunakan untuk desain yang lebih organik atau tidak berbentuk geometris sederhana.
+    Spline sangat fleksibel dan dapat diedit dengan menyesuaikan titik-titik pengontrol (control points) pada garis.
+
+    - **9.Smart Dimension**:
+    Digunakan untuk memberikan dimensi atau ukuran pada elemen sketsa.
+    Smart Dimension memungkinkan pengguna mengatur panjang garis, diameter lingkaran, jarak antar titik, dan sebagainya, sehingga memastikan desain memiliki ukuran yang tepat.
+
+    - **10.Trim Entities**:
+    Alat untuk memotong bagian dari sketsa yang tidak diinginkan.
+    Terdapat beberapa opsi pemangkasan, termasuk Power Trim (memotong garis dengan menggeser mouse) dan Trim to Closest (memotong garis hingga ke titik     persimpangan terdekat).
+
+    - **11.Mirror Entities**:
+    Digunakan untuk menggandakan elemen sketsa secara simetris berdasarkan garis tengah tertentu.
+    Mirror Entities sangat membantu dalam membuat desain simetris tanpa harus menggambar ulang elemen sketsa.
+
+    - **12.Convert Entities**:
+    Alat ini memungkinkan pengguna untuk mengambil elemen dari fitur atau sketsa lain dan mengonversinya menjadi bagian dari sketsa yang sedang dibuat.
+    Fitur ini berguna saat pengguna perlu membuat sketsa yang sesuai dengan kontur fitur yang sudah ada.
 
 ## Fitur Ekstrusi dan Revolusi
 - **Extrude**: Membuat bentuk 3D dari sketsa 2D dengan menambah ketebalan.
