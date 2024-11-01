@@ -1,6 +1,6 @@
-# Modul 01 - Dasar-Dasar Perancangan Menggunakan SolidWorks :monocle_face:	
+# Modul 01 - Solidworks Introduction :monocle_face:	
 
-Selamat datang di **Modul 01: Dasar-Dasar Perancangan Menggunakan SolidWorks**. Modul ini dirancang untuk membantu pemula untuk mulai memahami alat dan fitur dasar SolidWorks yang penting dalam membuat desain 3D sederhana. 
+Selamat datang di **Modul 01: Solidworks Introduction**. Modul ini dirancang untuk membantu pemula untuk mulai memahami alat dan fitur dasar SolidWorks yang penting dalam membuat desain 3D sederhana. 
 
 ## :scroll: Daftar Isi
 - [Tujuan Modul](#pushpin-tujuan-modul)
