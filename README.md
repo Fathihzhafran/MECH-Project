@@ -1,6 +1,7 @@
 # MECH-Project :gear:
 
 Selamat datang di **MECH-Project**! :tada:
+
 Repository ini berisi modul pembelajaran terkait beberapa mekanikal yang sering digunakan dalam suatu proyek mahasiswa, lengkap dengan roadmap proyek dari awal hingga akhir. Silahkan gunakan dengan sebaik-baiknya :smile:
 
 ## :memo: Daftar Isi 
