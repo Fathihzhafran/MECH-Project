@@ -45,8 +45,8 @@ Roadmap ini dibagi ke dalam beberapa tahap untuk membantu mengorganisir aktivita
 ### Ongoing Activity
 | Aktivitas                               | Tanggal Mulai | Tanggal Perkiraan Selesai | Status       | Catatan                                                |
 |-----------------------------------------|---------------|---------------------------|--------------|--------------------------------------------------------|
-| Pemahaman & Belajar mandiri modul 01    | 04/11/2024    | 08/10/2024                | Dalam proses | Memahami serta belajar terkait modul yang diberikan    |
-| Pemahaman & Belajar mandiri modul 02    | 04/11/2024    | 08/10/2024                | Dalam proses | Memahami serta belajar terkait modul yang diberikan    |
+| Pemahaman & Belajar mandiri modul 01    | 04/11/2024    | 08/11/2024                | Dalam proses | Memahami serta belajar terkait modul yang diberikan    |
+| Pemahaman & Belajar mandiri modul 02    | 04/11/2024    | 08/11/2024                | Dalam proses | Memahami serta belajar terkait modul yang diberikan    |
 
 ### Finish Activity
 | Aktivitas                 | Tanggal Selesai | Keterangan                           |
